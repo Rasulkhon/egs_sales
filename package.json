@@ -1,0 +1,21 @@
+{
+  "name": "egsSales",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.15.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "telegraf": "^3.32.0",
+    "telegram-bot-api": "^2.0.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
